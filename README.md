@@ -21,9 +21,13 @@ important to get calculation on <bold>BMR</bold></p><br>
 
 <h2> Showcase: </h2> 
 At start you will get to the homepage
+<br>
 ![img.png](img.png)
+<br>
 After clicking on link you will be redirected on form, where app needs some your information to get results.
+<br>
 ![img_1.png](img_1.png)
+<br>
 
 And finally after clicking to "Calculate" button you will get the result shown bellow
 ![img_2.png](img_2.png)

@@ -22,7 +22,7 @@ important to get calculation on <bold>BMR</bold></p><br>
 <h2> Showcase: </h2> 
 At start you will get to the homepage
 <br>
-<img src"img.png">
+<img src="img.png">
 <br>
 After clicking on link you will be redirected on form, where app needs some your information to get results.
 <br>

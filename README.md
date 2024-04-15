@@ -1,4 +1,4 @@
-<h1> Counting calories webbapp </h1> 
+<h1 align="center"> Counting calories webbapp </h1> 
 <h2> About project: </h2> 
 <p> In this project i try to implement easy web form for counting how many calories you should get. I am using OOP
 principes and i try to implement some cybersecurity principles to prevent attacks. Also using Flask framework and web scraping
@@ -20,14 +20,13 @@ important to get calculation on <bold>BMR</bold></p><br>
 <p> All used libraries and their versions you can find in requirements.txt file. </p>
 
 <h2> Showcase: </h2> 
-<p>At start you will get to the homepage</p>
+<p align="center">At start you will get to the homepage</p>
 <br>
 <img src="img.png">
 <br>
-<p>After clicking on link you will be redirected on form, where app needs some your information to get results.</p>
+<p align="center">After clicking on link you will be redirected on form, where app needs some your information to get results.</p>
 <br>
 <img src="img_1.png">
 <br>
-
-<p>And finally after clicking to "Calculate" button you will get the result shown bellow</p>
+<p align="center">And finally after clicking to "Calculate" button you will get the result shown bellow</p>
 <img src="img_2.png">

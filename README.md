@@ -24,7 +24,7 @@ At start you will get to the homepage
 <br>
 <img src="img.png">
 <br>
-After clicking on link you will be redirected on form, where app needs some your information to get results.
+<p text-align: center;>After clicking on link you will be redirected on form, where app needs some your information to get results.</p>
 <br>
 <img src="img_1.png">
 <br>

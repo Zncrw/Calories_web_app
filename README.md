@@ -1,8 +1,3 @@
-<style>
-  #imgtext{
-    text-align: center;
-  }
-</style>
 <h1> Counting calories webbapp </h1> 
 <h2> About project: </h2> 
 <p> In this project i try to implement easy web form for counting how many calories you should get. I am using OOP
@@ -25,14 +20,14 @@ important to get calculation on <bold>BMR</bold></p><br>
 <p> All used libraries and their versions you can find in requirements.txt file. </p>
 
 <h2> Showcase: </h2> 
-<p id ="imgtext">At start you will get to the homepage</p>
+<p>At start you will get to the homepage</p>
 <br>
 <img src="img.png">
 <br>
-<p id ="imgtext">After clicking on link you will be redirected on form, where app needs some your information to get results.</p>
+<p>After clicking on link you will be redirected on form, where app needs some your information to get results.</p>
 <br>
 <img src="img_1.png">
 <br>
 
-<p id ="imgtext">And finally after clicking to "Calculate" button you will get the result shown bellow</p>
-![img_2.png](img_2.png)
+<p>And finally after clicking to "Calculate" button you will get the result shown bellow</p>
+<img src="img_2.png">
